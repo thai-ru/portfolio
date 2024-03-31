@@ -1,10 +1,10 @@
 const experienceData = [
   {
-    title: 'Data Engineering Intern',
-    company: 'Accenture',
-    location: 'Ahmedabad, India',
-    range: 'January 2022 - May 2022',
-    url: 'https://www.accenture.com/gr-en/about/consulting-index',
+    title: 'Software Development Engineer',
+    company: 'DialAfrika',
+    location: 'Ngong Rd, Adams Arcade, Nairobi',
+    range: 'April 2023 - Present',
+    url: 'https://www.dialafrika.com/',
     text1:
       'Helped with the digital transformation of BOAT by working on their platform called ByteETL.',
     text2:
@@ -13,17 +13,16 @@ const experienceData = [
       'Created JSON wrappers for the encryption components and automated and triggered the pipelines to run at specific intervals using CronJob.',
   },
   {
-    title: 'Software Engineer Analytics',
-    company: 'HOPS Healthcare',
-    location: 'Ahmedabad, India',
-    range: 'March 2021 - June 2021',
-    url: 'https://hops.healthcare/',
+    title: 'Mobile Developer',
+    company: 'Adamur IO',
+    location: 'Westlands, ABC Place, Nairobi',
+    range: 'December 2022 - March 2023',
+    url: 'https://adamur.io/',
     text1:
-      'Guided by Mr. Vivek Patel, to create a pipeline that extracts essential information from informal conversations.',
+      'Worked on creating a mobile app for investing in crypto markets, stocks, money markets and etfs',
     text2:
-      'Worked on creating a web app for their healthcare system for doctors to analyze and save reports.',
-    text3:
-      'Developed functions for automatically extracting important elements from reports using BioBERT and Regex.',
+      'Developed functions for investment management, Instant deposits, withdrawals and notifications.',
+    text3: 'Integrate Firebase backend and NSE APIs',
   },
 ]
 

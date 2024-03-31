@@ -6,7 +6,7 @@ const siteMetadata = {
   snippets: 'Reuseable code snippets collected by Parth',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://musing.vercel.app',
+  siteUrl: 'https://everythingthairu.xyz',
   siteRepo: 'https://github.com/thai-ru/portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',

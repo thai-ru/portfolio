@@ -10,15 +10,20 @@ const usesData = [
     href: 'https://www.alfredapp.com/',
   },
   {
-    title: 'Superhuman',
-    description: `Email client with keybindings`,
-    href: 'https://superhuman.com',
+    title: 'GoLand',
+    description: `Intellij Golang IDE`,
+    href: 'https://www.jetbrains.com/go/',
   },
-  // {
-  //   title: 'VSCode',
-  //   description: `Nothing shocking here. Click here to find my plugins & config`,
-  //   href: 'https://gist.github.com/pycoder2000/36812bb44f24e96ce09359cefd9e7198',
-  // },
+  {
+    title: 'XCode',
+    description: `Trying native IOS development and thee Apple Ecosystem`,
+    href: 'https://developer.apple.com/xcode/',
+  },
+  {
+    title: 'VSCode',
+    description: `Nothing shocking here. The everything editor`,
+    href: 'https://code.visualstudio.com/',
+  },
   {
     title: 'warp',
     description: `Trying out the beta version of this shell, looks promising`,
@@ -58,6 +63,11 @@ const usesData = [
     title: 'Hyper & Oh My Zsh',
     description: `Click here to find my plugins & config`,
     href: 'https://gist.github.com/DLevai94/af307fb45d525ffebf38750970f98ed2',
+  },
+  {
+    title: 'Android Studio',
+    description: `Having fun doing Mobile App development`,
+    href: 'https://www.developer.android.com/studio/',
   },
   {
     title: 'Daily.dev',
