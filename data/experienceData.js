@@ -6,11 +6,12 @@ const experienceData = [
     range: 'April 2023 - Present',
     url: 'https://www.dialafrika.com/',
     text1:
-      'Helped with the digital transformation of BOAT by working on their platform called ByteETL.',
+      'Develop the Bonga Cx mobile app, incorporating CRM, the ticketing system, and a call module with VOIP capabilities using Flutter.',
     text2:
-      'Built the encryption component for the platform using Scala and Spark which included 2 encoding functionalities : ENCRYPT and HASH.',
+      "Facilitated the team's transition from Django to Golang and gRPC for a more robust and performant system.\n" +
+      ' Leveraged the advantages of Golang, such as enhanced concurrency, efficient resource utilization, and scalability.',
     text3:
-      'Created JSON wrappers for the encryption components and automated and triggered the pipelines to run at specific intervals using CronJob.',
+      "Created Mobile SDKs for DialAfrika's ticketing system, managing customer feedback from various sources (webchat, WhatsApp, Facebook, email).",
   },
   {
     title: 'Mobile Developer',
