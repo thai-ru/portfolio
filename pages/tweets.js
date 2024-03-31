@@ -3,13 +3,11 @@ import { PageSEO } from '@/components/SEO'
 import Tweet from '@/components/Tweet'
 import { getTweets } from '@/lib/twitter'
 
-// export async function getStaticProps() {
-//   const tweets = await getTweets([
-//     '1713471833805119975',
-//   ])
-//
-//   return { props: { tweets } }
-// }
+export async function getStaticProps() {
+  const tweets = await getTweets(['1713471833805119975'])
+
+  return { props: { tweets } }
+}
 
 export default function Tweets({ tweets }) {
   return (
@@ -28,9 +26,9 @@ export default function Tweets({ tweets }) {
             place to publicly share what inspires me, makes me laugh, and makes me think.
           </p>
         </div>
-        {/*{tweets.map((tweet) => (*/}
-        {/*  <Tweet key={tweet.id} {...tweet} />*/}
-        {/*))}*/}
+        {tweets.map((tweet) => (
+          <Tweet key={tweet.id} {...tweet} />
+        ))}
       </div>
     </>
   )
