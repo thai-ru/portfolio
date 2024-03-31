@@ -213,39 +213,32 @@ export default function Now(currentlyReading) {
         {/* Work */}
         <div className="pb-4">
           <p>
-            I work as a Data Engineer at{' '}
+            I work as a Software Engineer at{' '}
             <Link
-              href={'https://www.accenture.com/'}
+              href={'https://www.dialafrika.com/'}
               className="special-underline no-underline dark:text-gray-100 hover:dark:text-gray-100"
             >
-              Accenture
+              DialAfrika
             </Link>
             .
           </p>
           <br />
-          <p>
-            I work on building pipelines and automating the entire process using Scala and Gcloud.
-          </p>
+          <p>I work on building mobile apps and backend systems using Flutter, Kotlin and Go.</p>
           <br />
           <p>
-            I have been trying to shift my field from Data Engineering to Data Science. I have been
-            constantly applying for the same as well.
+            I have been trying to learn SwiftUi for some native IOS, MacOs development and the apple
+            ecosystem of products.
           </p>
           <br />
-          <p>
-            My location preference is Bangalore but I am open to shift to another place for a better
-            opportunity.
-          </p>
+          <p>I'm open to work anywhere in the world, both remote and hybrid opportunities.</p>
           <br />
           <p>
             I'm always trying to learn more, and at the moment I'm trying to follow this{' '}
             <Link
-              href={
-                'https://www.youtube.com/watch?v=_u-PaJCpwiU&list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG'
-              }
+              href={'https://developer.apple.com/tutorials/swiftui'}
               className="special-underline no-underline dark:text-gray-100 hover:dark:text-gray-100"
             >
-              Machine Learning tutorial
+              Swift Ui tutorial
             </Link>
             .
           </p>
@@ -268,15 +261,15 @@ export default function Now(currentlyReading) {
             article is a great reason to start your blog.
           </p>
           <br />
-          <p>
-            I am also going to start applying for Masters in Data Science in August 2022 for intake
-            of Fall 2023. I hope to get a good university near the West Coast. I'll update this page
-            after I get my admits.
-          </p>
+          {/*<p>*/}
+          {/*  I am also going to start applying for Masters in Data Science in August 2022 for intake*/}
+          {/*  of Fall 2023. I hope to get a good university near the West Coast. I'll update this page*/}
+          {/*  after I get my admits.*/}
+          {/*</p>*/}
           <br />
           <p>
-            I recently started to draft a post about my new Obsidian worklfow, it will be a good
-            one!
+            I recently started to draft articles on software development, in Go, Will update that
+            here soon.
           </p>
         </div>
         <div className="mt-3 text-sm">
