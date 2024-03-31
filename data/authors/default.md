@@ -1,13 +1,13 @@
 ---
-name: Parth Desai
+name: Robinson Thairu
 avatar: /static/images/avatar.png
-occupation: Data Engineer
-company: Accenture
-email: desaiparth2000@gmail.com
-twitter: https://twitter.com/_ParthDesai_
-linkedin: https://www.linkedin.com/in/parth-desai-2bb1b0160/
-github: https://github.com/pycoder2000
-text1: I am an India based Data Engineer with a bachelors in Computer Science. I am passionate about Data Science and Automation. I am also fascinated with Mathematics and wish to make a career out of it someday.
+occupation: Software Developer | Mobile Engineer
+company: DialAfrika
+email: robinsonthairu@gmail.com
+twitter: https://twitter.com/wireless_2_5_4
+linkedin: https://www.linkedin.com/in/robin-thairu/
+github: https://github.com/thai-ru
+text1: I am a passionate Software developer, Crafting mobile experiences that solve business challenges and delight users, combining the power of Code for seamless Frontend and backend elegance.
 text2:
 text3:
 ---

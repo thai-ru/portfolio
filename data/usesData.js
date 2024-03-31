@@ -14,11 +14,11 @@ const usesData = [
     description: `Email client with keybindings`,
     href: 'https://superhuman.com',
   },
-  {
-    title: 'VSCode',
-    description: `Nothing shocking here. Click here to find my plugins & config`,
-    href: 'https://gist.github.com/pycoder2000/36812bb44f24e96ce09359cefd9e7198',
-  },
+  // {
+  //   title: 'VSCode',
+  //   description: `Nothing shocking here. Click here to find my plugins & config`,
+  //   href: 'https://gist.github.com/pycoder2000/36812bb44f24e96ce09359cefd9e7198',
+  // },
   {
     title: 'warp',
     description: `Trying out the beta version of this shell, looks promising`,
