@@ -141,12 +141,12 @@ export default function Now(currentlyReading) {
         <div>
           <div className="flex justify-between gap-5">
             <div className="mt-2 mb-10 w-1/2 rounded-md border border-gray-600 p-1 text-sm dark:border-gray-200">
-              <span className="ml-2 font-semibold">Location:</span> <span>Ahmedabad, India</span>
+              <span className="ml-2 font-semibold">Location:</span> <span>Nairobi, Kenya</span>
               <br />
               <span className="ml-2 font-semibold">Weather:</span>{' '}
               <span>
                 <a
-                  href="https://weather.com/en-GB/weather/today/l/f42d9f8baa19b4d8d5e034449faa703839993366f64551a56a2b530297075dc2"
+                  href="https://weather.com/en-KE/weather/today/l/KEXX0009:1:KE"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="underline-offset-1 hover:underline"
