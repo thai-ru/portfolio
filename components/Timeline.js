@@ -23,7 +23,7 @@ export default function Timeline() {
             </span>
           </h3>
           <time className="text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-            June 13th, 2022
+            March 13th, 2024
           </time>
           <p className="mt-1 text-sm font-normal text-gray-500 dark:text-gray-400">
             Feel confident that I can work as a junior Data Engineer. Wish me Luck
