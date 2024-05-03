@@ -68,7 +68,7 @@ I needed the Spotify Refresh Token for my blog site in which I could display my 
 
 ## Step 1: Generate your Spotify `client_id` and `client_secret`
 
-- Follow the steps from Approach 1 till step 2 and add `<website>/callback` to your `Redirect URIs`. Eg. `http://musing.vercel.app/callback`
+- Follow the steps from Approach 1 till step 2 and add `<website>/callback` to your `Redirect URIs`. Eg. `http://everythingthairu.xyz/callback`
 
 <br />
 
@@ -90,14 +90,15 @@ I needed the Spotify Refresh Token for my blog site in which I could display my 
 
 ## Step 3: Get access code from the redirect URI
 
-- You will be redirected to your redirect URI which in my case was set to *https://musing.vercel.app/callback*.
+- You will be redirected to your redirect URI which in my case was set to *https://everythingthairu.xyz/callback*.
 
 - In the address bar you will find a huge URL string similar to the one below. In place of `$ACCESSCODE` there will be a long string of characters. Note down that string for the next step.
 
   ```bash
-  https://musing.vercel.app/callback?code=$ACCESSCODE
+  https://everythingthairu.xyz/callback?code=$ACCESSCODE
   ```
-<br />
+
+  <br />
 
 ## Step 4: Get the refresh token
 
