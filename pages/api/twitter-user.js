@@ -2,7 +2,7 @@
 import { getUser } from '@/lib/twitter'
 
 export default async (_, res) => {
-  const response = await getUser('wireless_2_5_4')
+  const response = await getUser('iThaiiru')
   const { data } = response
 
   if (!response) {

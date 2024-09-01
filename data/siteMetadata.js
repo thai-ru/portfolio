@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Robinson Thairu',
   headerTitle: 'Mere Musings',
   description: 'My personal blog where I share my musings',
-  snippets: 'Reuseable code snippets collected by Parth',
+  snippets: 'Reusable code snippets collected by iThaiiru',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://everythingthairu.xyz',
@@ -46,7 +46,7 @@ const siteMetadata = {
     },
   },
   socialAccount: {
-    twitter: 'wireless_2_5_4',
+    twitter: 'iThaiiru',
   },
 }
 
