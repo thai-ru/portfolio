@@ -18,16 +18,13 @@ const Contact = () => {
               icon="robinsonthairu"
             />
             <ContactLink href="https://github.com/thai-ru" title="github" icon="thai-ru" />
-            <ContactLink
-              href="https://twitter.com/wireless_2_5_4"
-              title="twitter"
-              icon="wireless_2_5_4"
-            />
+            <ContactLink href="https://twitter.com/iThaiiru" title="twitter" icon="iThaiiru" />
             <ContactLink
               href="https://www.linkedin.com/in/robin-thairu/"
               title="linkedin"
               icon="robinthairu"
             />
+            <ContactLink href="https://medium.com/@ithaiiru" title="Medium Blog" icon="iThaiiru" />
           </ul>
         </div>
       </div>
